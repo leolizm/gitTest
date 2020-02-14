@@ -1,0 +1,3 @@
+﻿Print "GANG"
+Print "YAY"
+
